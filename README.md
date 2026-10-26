@@ -3,7 +3,6 @@
 
 This repository contains the official implementation of the paper:
 **"CAG-Med: Cross-Attention Gating with Physically Motivated Projections for Parameter-Efficient Medical Image Analysis under Data Scarcity"**
-*Najiba Tagougui, Monji Kherallah*
 
 ##  Overview
 Contemporary large-scale visual foundation models struggle in clinical deployment due to quadratic attention complexity, prohibitive parameter budgets, and reliance on language-model tokenisation for continuous biomedical signals. 
